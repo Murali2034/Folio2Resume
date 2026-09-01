@@ -99,8 +99,8 @@ Backend is containerized using Docker.
 
 ## 👩‍💻 Developed By
 
-**Battu Naga Roopini**  
-B.Tech IT Student  
+**Namburu Murali Mohan**  
+B.Tech AI&DS Student  
 Full Stack Developer | Java | Spring Boot | MySQL 
 
 ---
